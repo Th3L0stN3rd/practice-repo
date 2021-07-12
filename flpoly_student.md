@@ -14,6 +14,14 @@ I am _passionate about_:
 
 - Building/upgrading my personal computer
 
+**Current Enrolled Classes**
+
+| Prefix | Number | Name                         | Credits |
+|:------:|:------:|:----------------------------:|:-------:|
+| **COP**|**2073**|_Introduction to Data Science_|    3    |
+
+
+
 ***
 
-> Last modified: 2021/07/07
+> Last modified: 2021/07/12
