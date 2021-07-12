@@ -1,4 +1,4 @@
-## Zadrian Maldonado
+## Zadrian (Z) Maldonado
 
 ### Summer 2021  
 
